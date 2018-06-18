@@ -1,0 +1,22 @@
+{
+  "name": "@vicinity/vcx-tsconfig",
+  "version": "1.0.0",
+  "description": "Base TSConfig configuration for Vicinity Projects using TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicinity/vcx-tsconfig.git"
+  },
+  "keywords": [
+    "typescript",
+    "tsconfig"
+  ],
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/vicinity/vcx-tsconfig/issues"
+  },
+  "homepage": "https://github.com/vicinity/vcx-tsconfig#readme"
+}
