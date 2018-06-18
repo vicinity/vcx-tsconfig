@@ -1,6 +1,6 @@
 {
   "name": "@vicinity/vcx-tsconfig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base TSConfig configuration for Vicinity Projects using TypeScript",
   "main": "index.js",
   "scripts": {
